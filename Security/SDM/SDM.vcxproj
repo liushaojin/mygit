@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{DDFFA61B-30F2-4FF7-AAF7-A41E592CF84F}</ProjectGuid>
+    <RootNamespace>SDM</RootNamespace>
+    <Keyword>MFCProj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)\bin\$(Configuration)\</OutDir>
+    <IntDir>..\temp\$(Configuration)\</IntDir>
+    <TargetName>$(ProjectName)</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)\bin\$(Configuration)\</OutDir>
+    <IntDir>..\temp\$(Configuration)\</IntDir>
+    <TargetName>$(ProjectName)</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IntDir>..\temp\$(Configuration)\</IntDir>
+    <OutDir>$(SolutionDir)\bin\$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <IntDir>..\temp\$(Configuration)\</IntDir>
+    <OutDir>$(SolutionDir)\bin\$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(ProjectDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>..\lib\TaskKeyHook.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(ProjectDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>..\lib\TaskKeyHook.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>..\lib\TaskKeyHook.lib</AdditionalDependencies>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>..\lib\TaskKeyHook.lib</AdditionalDependencies>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="images\button\btn_close.png" />
+    <None Include="images\button\btn_login_down.png" />
+    <None Include="images\button\btn_login_hover.png" />
+    <None Include="images\button\btn_login_normal.png" />
+    <None Include="images\button\btn_ok_down.png" />
+    <None Include="images\button\btn_ok_hover.png" />
+    <None Include="images\button\btn_ok_normal.png" />
+    <None Include="images\button\Exit_btn.png" />
+    <None Include="images\button\Main_btn.png" />
+    <None Include="images\button\Register_btn.png" />
+    <None Include="images\dlg\DataQuery.png" />
+    <None Include="images\dlg\dlg_dataquery.png" />
+    <None Include="images\dlg\dlg_login.png" />
+    <None Include="images\dlg\dlg_main.png" />
+    <None Include="images\dlg\dlg_register.png" />
+    <None Include="images\dlg\dlg_systemset.png" />
+    <None Include="images\dlg\dlg_usermanage.png" />
+    <None Include="images\dlg\Login.png" />
+    <None Include="images\dlg\Main.png" />
+    <None Include="images\dlg\Register.png" />
+    <None Include="images\dlg\SystemSet.png" />
+    <None Include="images\dlg\UserManage.png" />
+    <None Include="images\edit\edit_down.png" />
+    <None Include="images\edit\edit_normal.png" />
+    <None Include="images\menu\menu_hover.png" />
+    <None Include="images\menu\menu_normal.png" />
+    <None Include="images\netstate\image4.bin" />
+    <None Include="images\netstate\Network_Busy.ico" />
+    <None Include="images\netstate\Network_Disconnect.ico" />
+    <None Include="images\netstate\Network_Idle.ico" />
+    <None Include="images\netstate\SDoor_Area.ico" />
+    <None Include="images\other\user.png" />
+    <None Include="ReadMe.txt" />
+    <None Include="res\door.bmp" />
+    <None Include="res\SDM.ico" />
+    <None Include="res\SDM.rc2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BSWndContainer.h" />
+    <ClInclude Include="CeXDib.h" />
+    <ClInclude Include="common\AppInit.h" />
+    <ClInclude Include="common\CreateDump.h" />
+    <ClInclude Include="common\DataDefine.h" />
+    <ClInclude Include="common\PublicFunction.h" />
+    <ClInclude Include="common\Version.h" />
+    <ClInclude Include="controls\ButtonEx.h" />
+    <ClInclude Include="controls\BaseDialog.h" />
+    <ClInclude Include="controls\ImageEx.h" />
+    <ClInclude Include="controls\ListBoxEx.h" />
+    <ClInclude Include="database\ADO.h" />
+    <ClInclude Include="database\DataBaseT.h" />
+    <ClInclude Include="database\DataExport.h" />
+    <ClInclude Include="database\DBTable.h" />
+    <ClInclude Include="database\IniHelper.h" />
+    <ClInclude Include="Des\CRC32.h" />
+    <ClInclude Include="Des\CryptWithCpuId.h" />
+    <ClInclude Include="Des\DES.h" />
+    <ClInclude Include="Des\DESEx.H" />
+    <ClInclude Include="Des\GetHardDiskSN.h" />
+    <ClInclude Include="Des\MemoryStream.h" />
+    <ClInclude Include="Des\TaskKeyHook.h" />
+    <ClInclude Include="Des\TaskKeyMgr.h" />
+    <ClInclude Include="Des\XFolderSize.h" />
+    <ClInclude Include="HyperLink.h" />
+    <ClInclude Include="IpSetDlg.h" />
+    <ClInclude Include="Log.h" />
+    <ClInclude Include="MyLock.h" />
+    <ClInclude Include="network\IOCPServer.h" />
+    <ClInclude Include="network\SDCommData.h" />
+    <ClInclude Include="network\ShowSDData.h" />
+    <ClInclude Include="PlayWnd.h" />
+    <ClInclude Include="PublicFunction.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="SDM.h" />
+    <ClInclude Include="SDMDlg.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="system\DataCount.h" />
+    <ClInclude Include="system\DataQueryDlg.h" />
+    <ClInclude Include="system\DevManageDlg.h" />
+    <ClInclude Include="system\DialogMsg.h" />
+    <ClInclude Include="system\LoginDlg.h" />
+    <ClInclude Include="system\RegisterDlg.h" />
+    <ClInclude Include="system\SystemSetDlg.h" />
+    <ClInclude Include="system\UserManageDlg.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BSWndContainer.cpp" />
+    <ClCompile Include="CeXDib.cpp" />
+    <ClCompile Include="common\AppInit.cpp" />
+    <ClCompile Include="common\PublicFunction.cpp" />
+    <ClCompile Include="controls\ButtonEx.cpp" />
+    <ClCompile Include="controls\BaseDialog.cpp" />
+    <ClCompile Include="controls\ImageEx.cpp" />
+    <ClCompile Include="controls\ListBoxEx.cpp" />
+    <ClCompile Include="database\ADO.cpp" />
+    <ClCompile Include="database\DataBaseT.cpp" />
+    <ClCompile Include="database\DataExport.cpp" />
+    <ClCompile Include="database\IniHelper.cpp" />
+    <ClCompile Include="Des\CRC32.cpp" />
+    <ClCompile Include="Des\CryptWithCpuId.cpp" />
+    <ClCompile Include="Des\DES.cpp" />
+    <ClCompile Include="Des\DESEx.CPP">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Des\GetHardDiskSN.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Des\MemoryStream.cpp" />
+    <ClCompile Include="Des\TaskKeyMgr.cpp" />
+    <ClCompile Include="Des\XFolderSize.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="HyperLink.cpp" />
+    <ClCompile Include="IpSetDlg.cpp" />
+    <ClCompile Include="Log.cpp" />
+    <ClCompile Include="network\IOCPServer.cpp" />
+    <ClCompile Include="network\SDCommData.cpp" />
+    <ClCompile Include="network\ShowSDData.cpp" />
+    <ClCompile Include="SDM.cpp" />
+    <ClCompile Include="SDMDlg.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="system\DataCount.cpp" />
+    <ClCompile Include="system\DataQueryDlg.cpp" />
+    <ClCompile Include="system\DevManageDlg.cpp" />
+    <ClCompile Include="system\LoginDlg.cpp" />
+    <ClCompile Include="system\RegisterDlg.cpp" />
+    <ClCompile Include="system\SystemSetDlg.cpp" />
+    <ClCompile Include="system\UserManageDlg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SDM.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\dlg\DevManage.png" />
+    <None Include="images\dlg\dlg_devmanage .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\dlg\dlg_devmanage.png" />
+    <Image Include="images\dlg\dlg_ipset.png" />
+    <Image Include="images\dlg\IpSet.png" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="SDM.rc" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

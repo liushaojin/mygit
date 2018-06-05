@@ -1,0 +1,1091 @@
+DateTime:2018-06-05 09:22:05      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 09:22:05      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 09:22:05      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 09:22:05      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 09:22:05      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 09:22:05      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 09:22:05      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 09:22:05      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 09:22:05      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 09:22:05      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 09:22:05      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 09:22:05      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 09:22:05      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 09:22:08      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 09:22:08      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 09:22:08      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:19:45      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:19:45      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:19:45      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:19:45      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:19:45      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:19:45      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:19:45      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:19:45      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:19:45      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:19:45      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:19:45      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:19:45      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:19:45      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:19:48      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:19:48      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:19:48      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:21:53      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:21:53      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:21:53      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:21:53      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:21:53      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:21:53      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:21:53      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:21:53      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:21:53      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:21:53      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:21:53      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:21:53      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:21:53      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:21:56      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:21:56      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:21:56      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:22:29      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:22:30      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:22:30      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:22:30      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:22:30      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:22:30      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:22:30      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:22:30      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:22:30      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:22:30      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:22:30      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:22:30      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:22:30      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:22:32      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:22:32      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:22:32      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:24:50      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:24:51      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:24:51      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:24:51      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:24:51      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:24:51      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:24:51      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:24:51      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:24:51      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:24:51      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:24:51      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:24:51      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:24:51      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:24:54      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:24:54      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:24:54      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:27:32      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:27:32      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:27:32      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:27:32      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:27:32      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:27:32      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:27:32      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:27:32      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:27:32      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:27:32      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:27:32      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:27:32      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:27:32      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:27:35      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:27:35      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:27:35      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:28:51      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:28:51      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:28:51      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:28:51      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:28:51      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:28:51      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:28:51      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:28:51      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:28:51      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:28:51      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:28:51      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:28:51      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:28:51      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:28:54      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:28:54      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:28:54      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:29:13      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:29:13      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:29:13      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:29:13      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:29:14      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:29:14      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:29:14      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:29:14      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:29:14      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:29:14      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:29:14      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:29:14      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:29:14      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:29:17      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:29:17      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:29:17      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:31:39      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:31:39      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:31:39      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:31:39      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:31:39      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:31:39      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:31:39      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:31:39      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:31:39      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:31:39      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:31:40      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:31:40      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:31:40      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:31:42      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:31:42      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:31:42      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:34:00      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:34:00      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:34:00      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:34:00      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:34:00      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:34:00      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:34:00      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:34:00      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:34:00      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:34:00      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:34:00      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:34:00      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:34:00      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:34:08      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:34:08      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:34:08      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:36:25      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:36:25      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:36:25      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:36:25      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:36:25      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:36:25      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:36:25      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:36:25      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:36:25      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:36:25      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:36:25      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:36:25      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:36:25      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:39:05      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:39:05      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:39:05      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:39:05      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:39:06      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:39:06      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:39:06      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:39:06      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:39:06      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:39:06      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:39:06      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:39:06      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:39:06      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:39:10      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:39:10      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:39:10      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:39:23      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:39:23      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:39:23      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:39:23      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:39:23      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:39:23      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:39:23      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:39:23      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:39:23      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:39:23      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:39:23      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:39:23      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:39:23      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:39:28      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:39:28      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:39:28      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:42:41      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:42:41      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:42:41      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:42:41      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:42:42      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:42:42      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:42:42      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:42:42      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:42:42      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:42:42      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:42:42      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:42:42      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:42:42      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:42:46      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:42:46      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:42:46      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:45:03      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:45:03      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:45:03      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:45:03      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:45:03      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:45:03      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:45:03      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:45:03      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:45:03      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:45:03      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:45:03      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:45:03      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:45:03      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:45:06      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:45:06      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:45:06      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 11:46:59      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 11:46:59      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 11:46:59      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 11:46:59      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 11:46:59      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 11:46:59      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 11:46:59      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 11:46:59      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 11:46:59      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 11:46:59      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 11:46:59      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 11:46:59      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 11:46:59      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 11:47:02      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 11:47:02      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 11:47:02      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 12:01:52      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 12:01:52      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 12:01:52      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 12:01:52      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 12:01:52      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 12:01:52      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 12:01:52      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 12:01:52      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 12:01:52      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 12:01:52      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 12:01:52      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 12:01:52      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 12:01:52      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 12:01:55      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 12:01:55      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 12:01:55      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 12:05:10      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 12:05:10      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 12:05:10      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 12:05:10      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 12:05:10      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 12:05:10      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 12:05:10      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 12:05:10      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 12:05:10      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 12:05:10      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 12:05:10      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 12:05:10      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 12:05:10      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 12:05:12      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 12:05:12      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 12:05:12      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 12:07:09      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 12:07:09      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 12:07:09      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 12:07:09      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 12:07:09      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 12:07:09      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 12:07:09      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 12:07:09      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 12:07:09      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 12:07:09      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 12:07:09      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 12:07:09      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 12:07:09      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 12:07:12      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 12:07:12      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 12:07:12      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 12:08:50      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 12:08:50      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 12:08:50      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 12:08:50      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 12:08:51      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 12:08:51      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 12:08:51      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 12:08:51      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 12:08:51      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 12:08:51      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 12:08:51      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 12:08:51      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 12:08:51      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 12:08:53      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 12:08:53      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 12:08:53      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 12:13:20      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 12:13:20      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 12:13:20      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 12:13:20      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 12:13:20      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 12:13:20      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 12:13:20      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 12:13:20      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 12:13:20      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 12:13:20      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 12:13:20      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 12:13:20      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 12:13:20      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 12:13:22      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 12:13:22      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 12:13:22      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 12:15:19      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 12:15:19      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 12:15:19      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 12:15:19      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 12:15:19      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 12:15:19      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 12:15:19      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 12:15:19      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 12:15:19      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 12:15:19      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 12:15:19      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 12:15:19      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 12:15:19      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 12:15:22      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 12:15:22      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 12:15:22      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 12:18:48      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 12:18:49      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 12:18:49      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 12:18:49      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 12:18:49      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 12:18:49      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 12:18:49      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 12:18:49      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 12:18:49      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 12:18:49      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 12:18:49      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 12:18:49      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 12:18:49      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 12:18:51      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 12:18:51      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 12:18:51      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 12:20:30      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 12:20:30      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 12:20:30      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 12:20:30      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 12:20:30      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 12:20:30      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 12:20:30      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 12:20:30      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 12:20:30      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 12:20:30      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 12:20:30      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 12:20:30      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 12:20:30      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 12:20:32      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 12:20:32      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 12:20:32      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 12:25:59      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 12:25:59      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 12:25:59      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 12:25:59      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 12:25:59      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 12:25:59      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 12:25:59      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 12:25:59      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 12:25:59      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 12:25:59      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 12:25:59      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 12:25:59      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 12:25:59      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 12:26:01      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 12:26:01      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 12:26:01      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 12:27:00      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 12:27:00      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 12:27:00      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 12:27:00      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 12:27:00      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 12:27:00      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 12:27:00      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 12:27:00      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 12:27:00      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 12:27:00      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 12:27:00      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 12:27:00      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 12:27:00      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 12:27:02      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 12:27:02      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 12:27:02      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 12:28:06      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 12:28:06      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 12:28:06      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 12:28:06      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 12:28:06      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 12:28:06      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 12:28:06      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 12:28:06      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 12:28:06      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 12:28:06      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 12:28:06      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 12:28:06      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 12:28:06      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 12:28:11      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 12:28:11      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 12:28:11      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 12:28:46      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 12:28:46      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 12:28:46      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 12:28:46      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 12:28:46      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 12:28:46      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 12:28:46      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 12:28:46      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 12:28:46      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 12:28:46      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 12:28:46      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 12:28:46      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 12:28:46      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 12:28:48      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 12:28:48      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 12:28:48      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 13:53:27      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 13:53:27      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 13:53:27      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 13:53:27      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 13:53:27      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 13:53:27      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 13:53:27      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 13:53:27      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 13:53:27      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 13:53:27      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 13:53:28      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 13:53:28      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 13:53:28      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 13:53:30      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 13:53:30      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 13:53:30      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 13:53:56      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 13:53:56      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 13:53:56      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 13:53:56      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 13:53:56      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 13:53:56      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 13:53:56      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 13:53:56      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 13:53:56      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 13:53:56      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 13:53:56      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 13:53:56      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 13:53:56      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 13:53:58      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 13:53:58      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 13:53:58      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 13:56:42      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 13:56:42      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 13:56:42      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 13:56:42      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 13:56:42      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 13:56:42      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 13:56:42      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 13:56:42      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 13:56:42      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 13:56:42      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 13:56:42      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 13:56:42      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 13:56:42      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 13:56:45      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 13:56:45      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 13:56:45      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 14:01:26      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 14:01:26      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 14:01:26      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 14:01:26      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 14:01:26      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 14:01:26      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 14:01:26      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 14:01:26      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 14:01:26      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 14:01:26      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 14:01:26      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 14:01:26      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 14:01:26      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 14:01:29      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 14:01:29      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 14:01:29      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 14:06:10      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 14:06:10      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 14:06:10      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 14:06:10      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 14:06:10      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 14:06:10      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 14:06:10      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 14:06:10      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 14:06:10      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 14:06:10      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 14:06:10      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 14:06:10      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 14:06:10      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 14:06:13      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 14:06:13      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 14:06:13      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 14:07:09      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 14:07:10      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 14:07:10      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 14:07:10      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 14:07:10      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 14:07:10      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 14:07:10      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 14:07:10      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 14:07:10      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 14:07:10      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 14:07:10      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 14:07:10      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 14:07:10      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 14:07:13      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 14:07:13      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 14:07:13      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 14:58:24      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 14:58:24      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 14:58:24      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 14:58:24      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 14:58:24      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 14:58:24      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 14:58:24      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 14:58:24      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 14:58:24      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 14:58:24      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 14:58:25      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 14:58:25      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 14:58:25      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 14:58:27      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 14:58:27      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 14:58:27      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 15:02:26      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 15:02:26      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 15:02:26      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 15:02:26      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 15:02:26      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 15:02:26      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 15:02:26      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 15:02:26      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 15:02:26      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 15:02:26      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 15:02:26      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 15:02:26      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 15:02:26      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 15:02:29      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 15:02:29      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 15:02:29      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 15:05:01      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 15:05:02      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 15:05:02      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 15:05:02      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 15:05:02      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 15:05:02      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 15:05:02      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 15:05:02      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 15:05:02      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 15:05:02      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 15:05:02      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 15:05:02      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 15:05:02      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 15:05:05      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 15:05:05      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 15:05:05      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 15:05:58      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 15:05:58      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 15:05:58      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 15:05:58      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 15:05:58      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 15:05:58      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 15:05:58      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 15:05:58      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 15:05:58      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 15:05:58      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 15:05:58      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 15:05:58      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 15:05:58      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 15:06:01      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 15:06:01      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 15:06:01      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 15:08:44      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 15:08:44      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 15:08:44      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 15:08:44      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 15:08:44      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 15:08:44      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 15:08:44      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 15:08:44      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 15:08:44      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 15:08:44      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 15:08:44      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 15:08:44      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 15:08:44      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 15:08:46      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 15:08:46      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 15:08:46      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 15:13:41      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 15:13:41      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 15:13:41      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 15:13:41      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 15:13:41      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 15:13:41      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 15:13:41      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 15:13:41      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 15:13:42      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 15:13:42      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 15:13:42      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 15:13:42      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 15:13:42      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 15:13:44      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 15:13:44      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 15:13:44      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 15:15:20      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 15:15:21      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 15:15:21      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 15:15:21      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 15:15:21      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 15:15:21      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 15:15:21      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 15:15:21      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 15:15:21      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 15:15:21      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 15:15:21      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 15:15:21      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 15:15:21      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 15:15:27      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 15:15:27      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 15:15:27      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 15:45:05      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 15:45:05      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 15:45:05      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 15:45:05      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 15:45:05      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 15:45:05      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 15:45:05      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 15:45:05      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 15:45:05      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 15:45:05      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 15:45:05      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 15:45:05      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 15:45:05      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 15:45:08      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 15:45:08      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 15:45:08      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 15:45:49      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 15:45:49      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 15:45:49      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 15:45:49      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 15:45:49      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 15:45:49      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 15:45:49      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 15:45:49      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 15:45:49      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 15:45:49      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 15:45:49      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 15:45:49      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 15:45:49      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 15:45:52      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 15:45:52      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 15:45:52      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 16:01:27      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 16:01:27      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 16:01:27      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 16:01:27      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 16:01:27      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 16:01:27      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 16:01:27      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 16:01:27      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 16:01:27      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 16:01:27      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 16:01:27      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 16:01:27      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 16:01:27      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 16:01:30      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 16:01:30      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 16:01:30      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 16:02:06      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 16:02:07      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 16:02:07      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 16:02:07      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 16:02:07      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 16:02:07      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 16:02:07      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 16:02:07      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 16:02:07      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 16:02:07      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 16:02:07      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 16:02:07      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 16:02:07      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 16:02:09      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 16:02:09      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 16:02:09      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 16:07:22      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 16:07:22      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 16:07:22      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 16:07:22      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 16:07:22      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 16:07:22      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 16:07:22      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 16:07:22      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 16:07:22      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 16:07:22      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 16:07:22      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 16:07:22      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 16:07:22      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 16:07:25      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 16:07:25      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 16:07:25      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 16:08:02      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 16:08:02      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 16:08:02      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 16:08:02      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 16:08:02      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 16:08:02      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 16:08:02      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 16:08:02      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 16:08:02      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 16:08:02      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 16:08:02      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 16:08:02      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 16:08:02      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 16:08:04      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 16:08:04      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 16:08:04      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 16:15:12      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 16:15:12      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 16:15:12      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 16:15:13      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 16:15:13      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 16:15:13      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 16:15:13      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 16:15:13      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 16:15:13      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 16:15:13      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 16:15:13      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 16:15:13      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 16:15:13      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 16:15:16      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 16:15:16      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 16:15:16      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 16:38:09      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 16:38:10      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 16:38:10      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 16:38:10      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 16:38:10      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 16:38:10      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 16:38:10      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 16:38:10      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 16:38:10      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 16:38:10      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 16:38:10      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 16:38:10      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 16:38:10      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 16:38:15      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 16:38:15      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 16:38:15      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 16:41:24      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 16:41:24      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 16:41:24      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 16:41:24      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 16:41:24      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 16:41:24      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 16:41:24      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 16:41:24      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 16:41:24      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 16:41:24      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 16:41:24      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 16:41:24      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 16:41:24      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 16:41:29      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 16:41:29      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 16:41:29      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 16:49:09      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 16:49:09      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 16:49:09      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 16:49:09      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 16:49:09      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 16:49:09      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 16:49:09      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 16:49:09      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 16:49:09      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 16:49:09      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 16:49:09      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 16:49:09      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 16:49:09      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 16:50:04      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 16:50:04      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 16:50:04      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:15:19      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:15:19      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:15:19      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:15:19      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:15:19      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:15:19      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:15:19      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:15:19      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:15:19      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:15:19      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:15:19      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:15:19      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:15:19      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:15:22      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:15:22      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:15:22      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:15:52      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:15:52      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:15:52      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:15:52      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:15:52      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:15:53      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:15:53      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:15:53      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:15:53      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:15:53      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:15:53      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:15:53      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:15:53      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:15:55      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:15:55      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:15:55      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:19:55      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:19:56      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:19:56      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:19:56      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:19:56      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:19:56      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:19:56      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:19:56      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:19:56      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:19:56      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:19:56      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:19:56      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:19:56      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:19:59      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:19:59      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:19:59      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:25:24      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:25:25      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:25:25      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:25:25      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:25:25      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:25:25      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:25:25      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:25:25      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:25:25      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:25:25      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:25:25      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:25:25      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:25:25      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:25:27      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:25:27      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:25:27      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:29:10      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:29:11      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:29:11      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:29:11      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:29:11      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:29:11      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:29:11      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:29:11      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:29:11      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:29:11      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:29:11      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:29:11      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:29:11      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:29:13      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:29:13      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:29:13      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:36:07      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:36:07      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:36:07      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:36:07      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:36:07      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:36:08      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:36:08      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:36:08      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:36:08      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:36:08      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:36:08      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:36:08      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:36:08      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:36:11      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:36:11      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:36:11      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:37:02      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:37:02      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:37:02      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:37:02      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:37:02      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:37:02      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:37:02      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:37:02      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:37:02      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:37:02      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:37:02      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:37:02      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:37:02      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:37:04      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:37:04      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:37:04      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:38:07      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:38:07      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:38:07      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:38:07      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:38:07      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:38:07      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:38:07      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:38:07      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:38:07      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:38:07      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:38:07      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:38:07      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:38:07      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:38:10      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:38:10      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:38:10      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:40:28      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:40:28      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:40:28      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:40:28      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:40:28      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:40:28      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:40:28      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:40:28      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:40:28      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:40:28      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:40:28      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:40:28      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:40:28      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:40:30      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:40:30      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:40:30      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:46:25      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:46:25      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:46:25      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:46:25      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:46:25      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:46:25      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:46:25      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:46:25      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:46:25      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:46:25      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:46:25      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:46:25      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:46:25      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:46:28      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:46:28      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:46:28      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:47:51      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:47:51      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:47:51      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:47:52      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:47:52      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:47:52      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:47:52      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:47:52      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:47:52      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:47:52      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:47:52      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:47:52      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:47:52      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:47:54      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:47:54      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:47:54      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:49:44      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:49:45      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:49:45      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:49:45      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:49:45      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:49:45      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:49:45      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:49:45      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:49:45      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:49:45      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:49:45      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:49:45      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:49:45      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:49:52      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:49:52      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:49:52      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:51:09      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:51:09      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:51:09      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:51:09      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:51:09      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:51:09      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:51:09      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:51:09      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:51:09      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:51:09      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:51:09      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:51:09      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:51:09      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:51:12      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:51:12      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:51:12      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:56:51      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:56:51      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:56:51      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:56:51      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:56:52      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:56:52      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:56:52      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:56:52      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:56:52      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:56:52      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:56:52      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:56:52      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:56:52      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:56:55      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:56:55      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:56:55      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 17:57:20      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 17:57:20      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 17:57:20      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 17:57:20      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 17:57:21      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 17:57:21      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 17:57:21      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 17:57:21      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 17:57:21      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 17:57:21      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 17:57:21      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 17:57:21      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 17:57:21      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 17:57:23      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 17:57:23      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 17:57:23      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 18:08:45      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 18:08:46      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 18:08:46      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 18:08:46      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 18:08:46      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 18:08:46      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 18:08:46      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 18:08:46      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 18:08:46      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 18:08:46      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 18:08:46      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 18:08:46      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 18:08:46      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 18:08:48      Log Msg:CSDMApp::InitInstance------Login success!
+DateTime:2018-06-05 18:08:48      Log Msg:CSDMApp::InitInstance------Start DelExpiredImage thread
+DateTime:2018-06-05 18:08:48      Log Msg:CSDMApp::InitInstance------Begin initial the main module controls!
+DateTime:2018-06-05 18:10:20      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 18:10:21      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 18:10:21      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 18:10:21      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 18:10:21      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is invalid!
+DateTime:2018-06-05 18:10:21      Log Msg:CSDMApp::InitInstance------Enter the register module!
+DateTime:2018-06-05 18:10:23      Log Msg:CSDMApp::InitInstance------Register failure!
+DateTime:2018-06-05 18:15:39      Log Msg:CSDMApp::InitInstance------Start the application!
+DateTime:2018-06-05 18:15:39      Log Msg:CSDMApp::InitInstance------Enter query valid period module!
+DateTime:2018-06-05 18:15:39      Log Msg:CSDMApp::OnQueryValidPeriod------Enter the check the license file module!
+DateTime:2018-06-05 18:15:39      Log Msg:CSDMApp::OnQueryValidPeriod------The license file is valid and enter the check regcode module!
+DateTime:2018-06-05 18:15:39      Log Msg:CSDMApp::GetLastExitTime------Enter open the regedit module!
+DateTime:2018-06-05 18:15:39      Log Msg:CSDMApp::GetLastExitTime------Open the regedit success!
+DateTime:2018-06-05 18:15:39      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!
+DateTime:2018-06-05 18:15:39      Log Msg:CSDMApp::GetLastExitTime------Get valid time success!
+DateTime:2018-06-05 18:15:39      Log Msg:CSDMApp::OnQueryValidPeriod------ The RegCode is valid!
+DateTime:2018-06-05 18:15:39      Log Msg:CSDMApp::InitInstance------End of the query valid period module and the software is effective!
+DateTime:2018-06-05 18:15:39      Log Msg:CSDMApp::InitInstance------Initial connect the database!
+DateTime:2018-06-05 18:15:39      Log Msg:CSDMApp::InitInstance------Connect the database OK
+DateTime:2018-06-05 18:15:39      Log Msg:CSDMApp::InitInstance------Enter the login module!
+DateTime:2018-06-05 18:15:42      Log Msg:CSDMApp::InitInstance------Login failure!
+DateTime:2018-06-05 18:15:42      Log Msg:CPublicFunction::WriteExitTimeReg------Write the regedit success!

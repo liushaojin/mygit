@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\controls">
+      <UniqueIdentifier>{3371d205-7a9f-456a-8456-c5941fe29ded}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\controls">
+      <UniqueIdentifier>{7eacd08e-190f-46f4-872e-d8316efe6379}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\common">
+      <UniqueIdentifier>{b5bd6df1-75f1-4bd9-8de5-68bc62a36875}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\database">
+      <UniqueIdentifier>{d3c7ebd0-2637-4423-922f-8375124fcd26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\database">
+      <UniqueIdentifier>{a683ab32-437f-4670-bfe3-1d0c65d513c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\common">
+      <UniqueIdentifier>{fd5f8fea-60c6-44e6-b746-6c595e1b30ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\system">
+      <UniqueIdentifier>{68028a86-5a5c-431e-a2e5-2ef363fa74f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\system">
+      <UniqueIdentifier>{1256c8f8-834c-4ade-a9b3-bfd80cff7afd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\network">
+      <UniqueIdentifier>{659290e2-44e9-402c-9f46-1437c18e01f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\network">
+      <UniqueIdentifier>{0a1764c3-df81-4eb9-8807-c7cad5cae7ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Des">
+      <UniqueIdentifier>{6c0a4f1a-3444-403d-8765-53a26350448c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Des">
+      <UniqueIdentifier>{59a1dc81-e41b-4a6e-a125-58aa1cbbad5e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\SDM.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\SDM.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\netstate\Network_Busy.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\netstate\Network_Disconnect.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\netstate\Network_Idle.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\netstate\SDoor_Area.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\button\btn_close.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\button\btn_ok_normal.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\button\btn_ok_hover.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\button\btn_ok_down.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\button\btn_login_normal.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\button\btn_login_hover.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\button\btn_login_down.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\button\Main_btn.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\button\Register_btn.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\button\Exit_btn.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\dlg_register.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\Register.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\dlg_dataquery.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\DataQuery.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\dlg_login.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\Login.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\dlg_usermanage.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\UserManage.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\dlg_main.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\Main.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\dlg_systemset.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\SystemSet.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\edit\edit_normal.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\edit\edit_down.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\menu\menu_normal.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\menu\menu_hover.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\other\user.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\door.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\dlg_devmanage .png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\dlg\DevManage.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="images\netstate\image4.bin">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SDM.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SDMDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="controls\ButtonEx.h">
+      <Filter>头文件\controls</Filter>
+    </ClInclude>
+    <ClInclude Include="controls\ImageEx.h">
+      <Filter>头文件\controls</Filter>
+    </ClInclude>
+    <ClInclude Include="controls\ListBoxEx.h">
+      <Filter>头文件\controls</Filter>
+    </ClInclude>
+    <ClInclude Include="common\AppInit.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\Version.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="database\ADO.h">
+      <Filter>头文件\database</Filter>
+    </ClInclude>
+    <ClInclude Include="system\DataQueryDlg.h">
+      <Filter>头文件\system</Filter>
+    </ClInclude>
+    <ClInclude Include="system\LoginDlg.h">
+      <Filter>头文件\system</Filter>
+    </ClInclude>
+    <ClInclude Include="system\RegisterDlg.h">
+      <Filter>头文件\system</Filter>
+    </ClInclude>
+    <ClInclude Include="system\UserManageDlg.h">
+      <Filter>头文件\system</Filter>
+    </ClInclude>
+    <ClInclude Include="controls\BaseDialog.h">
+      <Filter>头文件\controls</Filter>
+    </ClInclude>
+    <ClInclude Include="network\IOCPServer.h">
+      <Filter>头文件\network</Filter>
+    </ClInclude>
+    <ClInclude Include="common\CreateDump.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\DataDefine.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="system\SystemSetDlg.h">
+      <Filter>头文件\system</Filter>
+    </ClInclude>
+    <ClInclude Include="network\SDCommData.h">
+      <Filter>头文件\network</Filter>
+    </ClInclude>
+    <ClInclude Include="network\ShowSDData.h">
+      <Filter>头文件\network</Filter>
+    </ClInclude>
+    <ClInclude Include="common\PublicFunction.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="database\DataBaseT.h">
+      <Filter>头文件\database</Filter>
+    </ClInclude>
+    <ClInclude Include="database\DBTable.h">
+      <Filter>头文件\database</Filter>
+    </ClInclude>
+    <ClInclude Include="system\DialogMsg.h">
+      <Filter>头文件\system</Filter>
+    </ClInclude>
+    <ClInclude Include="Des\CRC32.h">
+      <Filter>头文件\Des</Filter>
+    </ClInclude>
+    <ClInclude Include="Des\DES.h">
+      <Filter>头文件\Des</Filter>
+    </ClInclude>
+    <ClInclude Include="Des\DESEx.H">
+      <Filter>头文件\Des</Filter>
+    </ClInclude>
+    <ClInclude Include="Des\GetHardDiskSN.h">
+      <Filter>头文件\Des</Filter>
+    </ClInclude>
+    <ClInclude Include="Des\MemoryStream.h">
+      <Filter>头文件\Des</Filter>
+    </ClInclude>
+    <ClInclude Include="Des\TaskKeyHook.h">
+      <Filter>头文件\Des</Filter>
+    </ClInclude>
+    <ClInclude Include="Des\TaskKeyMgr.h">
+      <Filter>头文件\Des</Filter>
+    </ClInclude>
+    <ClInclude Include="Des\XFolderSize.h">
+      <Filter>头文件\Des</Filter>
+    </ClInclude>
+    <ClInclude Include="CeXDib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HyperLink.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyLock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PublicFunction.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BSWndContainer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayWnd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="system\DevManageDlg.h">
+      <Filter>头文件\system</Filter>
+    </ClInclude>
+    <ClInclude Include="database\DataExport.h">
+      <Filter>头文件\database</Filter>
+    </ClInclude>
+    <ClInclude Include="IpSetDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="database\IniHelper.h">
+      <Filter>头文件\database</Filter>
+    </ClInclude>
+    <ClInclude Include="system\DataCount.h">
+      <Filter>头文件\system</Filter>
+    </ClInclude>
+    <ClInclude Include="Des\CryptWithCpuId.h">
+      <Filter>头文件\Des</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SDM.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SDMDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="controls\ButtonEx.cpp">
+      <Filter>源文件\controls</Filter>
+    </ClCompile>
+    <ClCompile Include="controls\ImageEx.cpp">
+      <Filter>源文件\controls</Filter>
+    </ClCompile>
+    <ClCompile Include="controls\ListBoxEx.cpp">
+      <Filter>源文件\controls</Filter>
+    </ClCompile>
+    <ClCompile Include="common\AppInit.cpp">
+      <Filter>源文件\common</Filter>
+    </ClCompile>
+    <ClCompile Include="database\ADO.cpp">
+      <Filter>源文件\database</Filter>
+    </ClCompile>
+    <ClCompile Include="system\DataQueryDlg.cpp">
+      <Filter>源文件\system</Filter>
+    </ClCompile>
+    <ClCompile Include="system\LoginDlg.cpp">
+      <Filter>源文件\system</Filter>
+    </ClCompile>
+    <ClCompile Include="system\RegisterDlg.cpp">
+      <Filter>源文件\system</Filter>
+    </ClCompile>
+    <ClCompile Include="system\UserManageDlg.cpp">
+      <Filter>源文件\system</Filter>
+    </ClCompile>
+    <ClCompile Include="controls\BaseDialog.cpp">
+      <Filter>源文件\controls</Filter>
+    </ClCompile>
+    <ClCompile Include="network\IOCPServer.cpp">
+      <Filter>源文件\network</Filter>
+    </ClCompile>
+    <ClCompile Include="system\SystemSetDlg.cpp">
+      <Filter>源文件\system</Filter>
+    </ClCompile>
+    <ClCompile Include="network\SDCommData.cpp">
+      <Filter>源文件\network</Filter>
+    </ClCompile>
+    <ClCompile Include="network\ShowSDData.cpp">
+      <Filter>源文件\network</Filter>
+    </ClCompile>
+    <ClCompile Include="common\PublicFunction.cpp">
+      <Filter>源文件\common</Filter>
+    </ClCompile>
+    <ClCompile Include="database\DataBaseT.cpp">
+      <Filter>源文件\database</Filter>
+    </ClCompile>
+    <ClCompile Include="Des\CRC32.cpp">
+      <Filter>源文件\Des</Filter>
+    </ClCompile>
+    <ClCompile Include="Des\DES.cpp">
+      <Filter>源文件\Des</Filter>
+    </ClCompile>
+    <ClCompile Include="Des\DESEx.CPP">
+      <Filter>源文件\Des</Filter>
+    </ClCompile>
+    <ClCompile Include="Des\GetHardDiskSN.cpp">
+      <Filter>源文件\Des</Filter>
+    </ClCompile>
+    <ClCompile Include="Des\MemoryStream.cpp">
+      <Filter>源文件\Des</Filter>
+    </ClCompile>
+    <ClCompile Include="Des\TaskKeyMgr.cpp">
+      <Filter>源文件\Des</Filter>
+    </ClCompile>
+    <ClCompile Include="Des\XFolderSize.cpp">
+      <Filter>源文件\Des</Filter>
+    </ClCompile>
+    <ClCompile Include="HyperLink.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CeXDib.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BSWndContainer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="system\DevManageDlg.cpp">
+      <Filter>源文件\system</Filter>
+    </ClCompile>
+    <ClCompile Include="database\DataExport.cpp">
+      <Filter>源文件\database</Filter>
+    </ClCompile>
+    <ClCompile Include="IpSetDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="database\IniHelper.cpp">
+      <Filter>源文件\database</Filter>
+    </ClCompile>
+    <ClCompile Include="system\DataCount.cpp">
+      <Filter>源文件\system</Filter>
+    </ClCompile>
+    <ClCompile Include="Des\CryptWithCpuId.cpp">
+      <Filter>源文件\Des</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SDM.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\dlg\dlg_devmanage.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\dlg\dlg_ipset.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\dlg\IpSet.png">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
